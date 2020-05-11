@@ -62,8 +62,6 @@ f2py/index.html -> genindex.html
 f2py/index.html -> index.html
 f2py/index.html -> search.html
 f2py/index.html -> user/explanations_index.html
-https://docs.python.org/extending/index.html -> https://docs.python.org/3/extending/index.html
-https://www.numpy.org/neps/index.html -> https://numpy.org/neps/index.html
 index.html -> about.html
 index.html -> benchmarking.html
 index.html -> bugs.html
