@@ -3,7 +3,7 @@
 - A Colab [live notebook](https://colab.research.google.com/github/bjnath/numpy_ipynb/blob/master/tutorial-svd_gh.ipynb) of Melissa's SVD tutorial; here's a 
  [static version](https://github.com/bjnath/numpy_ipynb/blob/master/tutorial-svd_gh.ipynb). I created the notebook in Colab by copy-and-paste.
  
-- A Binder [live notebook](https://mybinder.org/v2/gh/bjnath/numpy_ipynb/master?filepath=tutorial-svd_gh.ipyn) of the SVD tutorial.
+- A Binder [live notebook](https://mybinder.org/v2/gh/bjnath/numpy_ipynb/master?filepath=tutorial-svd_gh.ipynb) of the SVD tutorial.
 
 - Existing ipynbs can also be displayed 
 [live](https://colab.research.google.com/github/justmarkham/pycon-2018-tutorial/blob/master/tutorial.ipynb).
