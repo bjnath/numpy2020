@@ -1,4 +1,4 @@
-# Live notebooks from GitHub pages
+# Hosted live notebooks from GitHub pages
 
 - A [live notebook](https://colab.research.google.com/github/bjnath/numpy_ipynb/blob/master/tutorial-svd_gh.ipynb) of Melissa's SVD tutorial; here's a 
  [static version](https://github.com/bjnath/numpy_ipynb/blob/master/tutorial-svd_gh.ipynb). I created the notebook in Colab by copy-and-paste.
