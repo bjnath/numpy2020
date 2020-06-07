@@ -1,4 +1,4 @@
-# numpy2020
+# Live notebooks from GitHub pages
 
 - Melissa's tutorial on this page
 opened directly as a [**live notebook**](https://colab.research.google.com/github/bjnath/numpy_ipynb/blob/master/tutorial-svd_gh.ipynb);
